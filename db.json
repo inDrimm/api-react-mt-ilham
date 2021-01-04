@@ -1,0 +1,114 @@
+ {"data":[
+    {
+        "NoSU" : "198609262015051001",
+        "namaKegiatan" : "Kegiatan A",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",
+        "tanggalSelesai" : "01/08/2020",
+        "statusUsulan" : "Terkirim"
+    },
+    {
+        "NoSU" : "198609262015051002",
+        "namaKegiatan" : "Kegiatan B",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",
+        "tanggalSelesai" : "01/08/2020",
+        "statusUsulan" : "Terkirim"
+    },
+    {
+        "NoSU" : "198609262015051003",
+        "namaKegiatan" : "Kegiatan C",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",
+        "tanggalSelesai" : "01/08/2020",
+        "statusUsulan" : "Ditolak"
+    },
+    {
+        "NoSU" : "198609262015051004",
+        "namaKegiatan" : "Kegiatan D",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",
+        "tanggalSelesai" : "01/08/2020",
+        "statusUsulan" : "Ditolak"
+    },
+    {
+        "NoSU" : "198609262015051005",
+        "namaKegiatan" : "Kegiatan E",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",
+        "tanggalSelesai" : "01/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+    {
+        "NoSU" : "178609262015051208",
+        "namaKegiatan" : "Kegiatan F",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",       
+        "tanggalSelesai" : "01/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+    {
+        "NoSU" : "138609262015051122",
+        "namaKegiatan" : "Kegiatan A",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",     
+        "tanggalSelesai" : "01/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+    {
+        "NoSU" : "198609262015051011",
+        "namaKegiatan" : "Kegiatan B",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",
+        "tanggalSelesai" : "22/08/2020",
+        "statusUsulan" : "On Progress"
+    },{
+        "NoSU" : "138609262015051112",
+        "namaKegiatan" : "Kegiatan A",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",     
+        "tanggalSelesai" : "01/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+    {
+        "NoSU" : "198609262015051013",
+        "namaKegiatan" : "Kegiatan B",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",
+        "tanggalSelesai" : "22/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+	{
+        "NoSU" : "138609262015051114",
+        "namaKegiatan" : "Kegiatan A",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",     
+        "tanggalSelesai" : "01/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+    {
+        "NoSU" : "198609262015051015",
+        "namaKegiatan" : "Kegiatan C",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",
+        "tanggalSelesai" : "22/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+	{
+        "NoSU" : "138609262015051116",
+        "namaKegiatan" : "Kegiatan D",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",     
+        "tanggalSelesai" : "01/08/2020",
+        "statusUsulan" : "On Progress"
+    },
+    {
+        "NoSU" : "198609262015051017",
+        "namaKegiatan" : "Kegiatan D",
+        "Tahun" : "2020",
+        "tanggalMulai" : "25/07/2020",
+        "tanggalSelesai" : "22/08/2020",
+        "statusUsulan" : "On Progress"
+    }
+]
+}
