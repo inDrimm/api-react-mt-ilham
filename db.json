@@ -45,7 +45,7 @@
         "Tahun" : "2020",
         "tanggalMulai" : "25/07/2020",       
         "tanggalSelesai" : "01/08/2020",
-        "statusUsulan" : "On Progress"
+        "statusUsulan" : "Ditolak"
     },
     {
         "NoSU" : "138609262015051122",
@@ -53,7 +53,7 @@
         "Tahun" : "2020",
         "tanggalMulai" : "25/07/2020",     
         "tanggalSelesai" : "01/08/2020",
-        "statusUsulan" : "On Progress"
+        "statusUsulan" : "Terkirim"
     },
     {
         "NoSU" : "198609262015051011",
@@ -68,7 +68,7 @@
         "Tahun" : "2020",
         "tanggalMulai" : "25/07/2020",     
         "tanggalSelesai" : "01/08/2020",
-        "statusUsulan" : "On Progress"
+        "statusUsulan" : "Terkirim"
     },
     {
         "NoSU" : "198609262015051013",
@@ -84,7 +84,7 @@
         "Tahun" : "2020",
         "tanggalMulai" : "25/07/2020",     
         "tanggalSelesai" : "01/08/2020",
-        "statusUsulan" : "On Progress"
+        "statusUsulan" : "Ditolak"
     },
     {
         "NoSU" : "198609262015051015",
@@ -92,7 +92,7 @@
         "Tahun" : "2020",
         "tanggalMulai" : "25/07/2020",
         "tanggalSelesai" : "22/08/2020",
-        "statusUsulan" : "On Progress"
+        "statusUsulan" : "Terkirim"
     },
 	{
         "NoSU" : "138609262015051116",
@@ -108,7 +108,7 @@
         "Tahun" : "2020",
         "tanggalMulai" : "25/07/2020",
         "tanggalSelesai" : "22/08/2020",
-        "statusUsulan" : "On Progress"
+        "statusUsulan" : "Terkirim"
     }
 ]
 }
